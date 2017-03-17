@@ -7,7 +7,7 @@ public class Aluno extends Pessoa {
 		super(nome, endereco, dataNascimento);
 		this.curso = curso;
 		this.semestre = semestre;
-	}
+	}	
 
 	public String getCurso() {
 		return curso;
