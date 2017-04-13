@@ -5,7 +5,6 @@ public class Contato {
 	private String telefone;
 	private String email;
 	
-	
 	public String getNome() {
 		return nome;
 	}
