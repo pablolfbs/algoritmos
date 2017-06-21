@@ -25,5 +25,5 @@ public class Main {
 			 System.out.println("Operador inválido. ");
 		 }
 		 in.close();
-	}	
+	}
 }
