@@ -1,6 +1,3 @@
-/Aluno.class
-/Disciplina.class
-/Inscricao.class
 /ItemInscricao.class
 /ManipulaAlunos.class
 /ManipulaAssociacoes.class
@@ -11,3 +8,4 @@
 /Pessoa.class
 /Professor.class
 /SistemaAcademico.class
+/Turma.class
