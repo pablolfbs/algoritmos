@@ -26,7 +26,7 @@ public class FibonacciMetodoRecursivo {
 		if(b == 1) {
 			return 1;
 		}
-//		return (fibonacciMetodoRecursivo(a-1) + fibonacciMetodoRecursivo(a-2));
+		return (fibonacciMetodoRecursivo(b - 1, a[i -1]));
 		
 
 		
