@@ -21,6 +21,4 @@ public class Aluno extends Pessoa  {
 	public void setSemestre(int semestre) {
 		this.semestre = semestre;
 	}
-	
-
 }
