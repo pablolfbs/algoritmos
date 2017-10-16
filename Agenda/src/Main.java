@@ -36,6 +36,7 @@ public class Main {
 		if (agenda != null) {
 			System.out.println(agenda.obterInfo());
 		}
+		
 	}
 
 }
